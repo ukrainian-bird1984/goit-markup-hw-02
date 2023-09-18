@@ -45,8 +45,8 @@
     line-height: 1.5;
     color: #2E2F42;
 }
-.nav-link a:hover,
-.nav-link a:focus {
+.nav-link:hover,
+.nav-link:focus {
     font-weight: 500;
     letter-spacing: 0.02em;
     line-height: 1.5;
@@ -55,13 +55,13 @@
 .address {
     font-style: normal;
 }
-.address-link a {
+.address-link {
     letter-spacing: 0.02em;
     line-height: 1.5;
     color: #434455;
 }
-.address-link a:hover,
-.address-link a:focus {
+.address-link:hover,
+.address-link:focus {
     letter-spacing: 0.02em;
     line-height: 1.5;
     color: #404BBF;
