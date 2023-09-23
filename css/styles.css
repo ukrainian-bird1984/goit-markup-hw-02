@@ -148,7 +148,7 @@ margin-right: 0;
 .about {
     list-style-type: none;
     display: flex;
-    flex-basis: calc ((100% - 24px) / 4);
+    width: calc ((100% - 24px) / 4);
     gap: 32px;
 }
 .about-title {
